@@ -1,4 +1,4 @@
-# Bank_Cr.Card_analysis_dashboard
+# Bank_Vision_dashboard
 # OVERVIEW
 This interactive Power BI dashboard provides comprehensive insights into credit card data, spanning 6 pages. It offers a detailed analysis of branches, merchants, credit card types, customer leads, opportunities, and individual customer information.
 # Dashboard Pages
