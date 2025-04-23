@@ -1,4 +1,4 @@
-# Bank_Vision_dashboard
+# Bank_Vision_Dashboard
 # OVERVIEW
 This interactive Power BI dashboard provides comprehensive insights into credit card data, spanning 6 pages. It offers a detailed analysis of branches, merchants, credit card types, customer leads, opportunities, and individual customer information.
 # Dashboard Pages
@@ -47,7 +47,7 @@ This interactive Power BI dashboard provides comprehensive insights into credit 
 - Data model
 - DAX formulas
 # Instructions for Use
-1. Open the Power BI file (credit_card_dashboard.pbix) and explore the dashboard.
+1. Open the Power BI file (Bank_Vision_Dashboard.pbix) and explore the dashboard.
 2. Use filters to narrow down data and gain specific insights.
 3. Hover over visualizations for detailed tooltips.
 # CONTACT
